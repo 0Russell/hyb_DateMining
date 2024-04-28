@@ -2,7 +2,7 @@
 
 ## 一、注册Github账户（已有账户）
 
-![\images\image-20240428091945725.png)
+![image-20240428091945725](/images/image-20240428091945725.png)
 
 ## 二、建立hyb_DataMining库
 
