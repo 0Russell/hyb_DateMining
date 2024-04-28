@@ -8,7 +8,7 @@
 
 ### 1.主页面选择 “Create repository” 开始建库
 
-![/images/image-20240428094212061.png)
+![image-20240428091945725](/images/image-20240428094212061.png)
 
 ### 2.进入编辑界面，填写库的相关信息，并添加readme文件，最后点击"Create repository"完成创建
 
